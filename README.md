@@ -6,10 +6,11 @@
 This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. ( https://archive.ics.uci.edu/ml/machine-learning-databases/housing/ )
 
 
-Python Libraries used - pandas, numpy, matplotlib
+### Python Libraries used - 
+pandas, numpy, matplotlib
 
 
-Attribute Information (in order):
+### Attribute Information (in order):
         - CRIM     per capita crime rate by town
         - ZN       proportion of residential land zoned for lots over 25,000 sq.ft.
         - INDUS    proportion of non-retail business acres per town
@@ -27,16 +28,17 @@ Attribute Information (in order):
 
 
 
-
+### Recommendation System
 Data cleansing, pre-processing, analyzing, and model-training and building the prediction model are being done on jupyter notebook using Python libraries to make our recommendation model work more accurately. 
 
-The frontend is built using the tech stack of HTML and Javascript
-The backend is built completely using the libraries of Python
-Frontend and backend are logically connected using the 'predict_api' API
-The complete project is containerized using the docker. The project is 100% plug and play
+### Specifications
+1. The frontend is built using the tech stack of HTML and Javascript
+2. The backend is built completely using the libraries of Python
+3. Frontend and backend are logically connected using the 'predict_api' API
+4. The complete project is containerized using the docker. The project is 100% plug and play
 
 
-How to Run? 
+### How to Run? 
 Open the project in VS Code or any other code editor and open the terminal run the below command
 ```
 python app.py
@@ -44,3 +46,4 @@ python app.py
 
 open this on the browser - http://127.0.0.1:5000
 
+And that's it! 
