@@ -1,4 +1,9 @@
 ## Project Name - Boston House Pricing Recommendation System
+The Boston House Pricing Recommendation System is a machine learning system that provides an estimate of the median value of owner-occupied homes in Boston, Massachusetts based on a set of input features. The system uses the Boston House Pricing dataset which contains information about different attributes like crime rate, property tax rate, pupil-teacher ratio, and other factors that may impact the value of a property.
+
+The system takes these input features as input, applies machine learning algorithms to predict the median value of owner-occupied homes in Boston, and provides a recommendation to the user. This recommendation can help home buyers, real estate agents, or anyone who is interested in buying or selling properties to make informed decisions about the value of a property.
+
+Overall, the Boston House Pricing Recommendation System helps to streamline the decision-making process related to property buying or selling and provides users with an estimate of the value of a property based on a set of input features.
 
 
 
